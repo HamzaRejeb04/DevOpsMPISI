@@ -177,3 +177,4 @@ Voici un guide détaillé sur la manière d'intégrer JaCoCo dans un projet Spri
 
 <img width="1919" height="395" alt="image" src="https://github.com/user-attachments/assets/dda1af61-3f94-4e0c-ac21-c42e37e2ccde" />
 
+// sonar trigger
