@@ -179,3 +179,4 @@ Voici un guide détaillé sur la manière d'intégrer JaCoCo dans un projet Spri
 
 // sonar trigger
 CI OK
+CI OK
